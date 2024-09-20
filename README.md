@@ -6,8 +6,9 @@ permettant d’effectuer des opérations mathématiques très simples.
 ## Réponses
 
 1. 
-Hypatie d’Alexandrie <hypatie@mathfacile.fr>
-Ada Lovelace <ada@mathfacile.fr>
+- Hypatie d’Alexandrie <hypatie@mathfacile.fr>
+- Ada Lovelace <ada@mathfacile.fr>
+- Edsger Dijkstra <edsger@mathfacile.fr>
 
 2.
 - puissance
